@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vet-3799-pc/AndroidStudioProjects/FlashCardAp/app/src/main/res/drawable/addbutton.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/vet-3799-pc/AndroidStudioProjects/FlashCardAp/app/src/main/res/drawable/card_background.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/vet-3799-pc/AndroidStudioProjects/FlashCardAp/app/src/main/res/drawable/ic_hide_eye.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/vet-3799-pc/AndroidStudioProjects/FlashCardAp/app/src/main/res/drawable/ic_show_eye.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/vet-3799-pc/AndroidStudioProjects/FlashCardAp/app/src/main/res/drawable/options_background.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/vet-3799-pc/AndroidStudioProjects/FlashCardAp/app/src/main/res/layout/activity_add_card.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/vet-3799-pc/AndroidStudioProjects/FlashCardAp/app/src/main/res/layout/activity_main.xml" value="0.10379981464318813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

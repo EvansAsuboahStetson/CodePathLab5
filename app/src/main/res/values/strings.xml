@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashCardAp</string>
+    <string name="Question">Enter the Question Here</string>
+    <string name="Answer">Enter the Answer Here</string>
+</resources>
